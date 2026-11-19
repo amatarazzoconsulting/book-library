@@ -1,0 +1,7 @@
+# build outputs
+bin/
+build/
+*.o
+*.asm.tmp
+# vendored compiler documentation, not source
+toolchain/lowl/*.pdf
